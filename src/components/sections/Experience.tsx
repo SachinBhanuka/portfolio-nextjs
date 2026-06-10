@@ -1,40 +1,48 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { GraduationCap, Award, BookOpen } from "lucide-react";
+import { BriefcaseBusiness } from "lucide-react";
 
 const timeline = [
   {
-    icon: GraduationCap,
-    year: "2021 – 2024",
-    title: "Bachelor of Information Technology",
-    org: "University of Melbourne",
-    desc: "Focused on software engineering, database systems, and web development. Graduated with distinction.",
-    type: "education",
+    icon: BriefcaseBusiness,
+    year: "Dec 2023 – Present",
+    title: "IT Support Specialist",
+    org: "Star Medical Center",
+    desc: "Provide technical support, troubleshoot recurring system issues, engage with non-technical stakeholders, and improve workflows through practical technology solutions.",
+    type: "experience",
   },
   {
-    icon: Award,
-    year: "2024",
-    title: "AWS Cloud Practitioner",
-    org: "Amazon Web Services",
-    desc: "Certified in cloud fundamentals, AWS services, security, and architecture best practices.",
-    type: "cert",
+    icon: BriefcaseBusiness,
+    year: "Aug 2022 – Sep 2023",
+    title: "Software Engineer",
+    org: "D&V Software Solutions",
+    desc: "Developed and maintained full-stack applications using ReactJS, PHP, REST APIs, and SQL databases. Built frontend interfaces, integrated backend systems, and supported reliable software delivery.",
+    type: "experience",
   },
   {
-    icon: BookOpen,
-    year: "2023",
-    title: "Full-Stack Web Development Bootcamp",
-    org: "Self-directed / Online",
-    desc: "Completed intensive training in React, Node.js, PostgreSQL, and modern DevOps workflows.",
-    type: "training",
+    icon: BriefcaseBusiness,
+    year: "Mar 2021 – Aug 2022",
+    title: "Associate Software Engineer",
+    org: "D&V Software Solutions",
+    desc: "Designed RESTful backend APIs, investigated production issues, supported SQL database migration, and improved backend reliability and maintainability.",
+    type: "experience",
   },
   {
-    icon: Award,
-    year: "2023",
-    title: "Meta Front-End Developer Certificate",
-    org: "Coursera / Meta",
-    desc: "Professional certificate covering React, JavaScript, UX principles, and front-end development.",
-    type: "cert",
+    icon: BriefcaseBusiness,
+    year: "Jul 2020 – Feb 2021",
+    title: "Trainee Software Engineer",
+    org: "D&V Software Solutions",
+    desc: "Built dynamic web applications using ReactJS, PHP, REST APIs, and SQL-backed systems. Supported testing, requirement gathering, migration, and documentation.",
+    type: "experience",
+  },
+  {
+    icon: BriefcaseBusiness,
+    year: "Jan 2020 – Jun 2020",
+    title: "Software Engineering Intern",
+    org: "D&V Software Solutions",
+    desc: "Developed a ReactJS KPI dashboard, supported QA testing, and assisted with backend integration across live client projects.",
+    type: "experience",
   },
 ];
 
@@ -53,7 +61,7 @@ export default function Experience() {
             Background
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold text-white mt-2">
-            Education & Certifications
+            Professional Experience
           </h2>
         </motion.div>
 
