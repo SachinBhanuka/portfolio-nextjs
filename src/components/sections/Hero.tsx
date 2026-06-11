@@ -31,9 +31,9 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.1 }}
         >
           Sachin{" "}
-          <span className="bg-gradient-to-r from-accent to-indigo-400 bg-clip-text text-transparent">
-            Keragala
-          </span>
+        <span className="bg-gradient-to-r from-accent to-indigo-400 bg-clip-text text-transparent">
+          Keragala
+        </span>
         </motion.h1>
 
         <motion.p
