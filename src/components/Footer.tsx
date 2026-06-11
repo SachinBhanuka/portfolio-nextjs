@@ -13,7 +13,7 @@ export default function Footer() {
             Sachin Keragala<span className="text-accent">.</span>
           </div>
           <p className="text-slate-500 text-sm">
-            Full-Stack Developer — Melbourne, Australia
+            Full-Stack Developer — Brisbane, Australia
           </p>
           <p className="text-slate-600 text-xs mt-1">
             &copy; {year} Sachin Keragala. All rights reserved.
