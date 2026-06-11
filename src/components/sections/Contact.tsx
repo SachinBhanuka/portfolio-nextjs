@@ -56,8 +56,8 @@ export default function Contact() {
               </div>
               <div>
                 <p className="text-sm text-slate-500 mb-0.5">Email</p>
-                <a href="mailto:sachin.keragala@email.com" className="text-slate-200 hover:text-accent transition-colors">
-                  sachin.keragala@email.com
+                <a href="mailto:keragalasachin@gmail.com" className="text-slate-200 hover:text-accent transition-colors">
+                  keragalasachin@gmail.com
                 </a>
               </div>
             </div>
@@ -68,13 +68,13 @@ export default function Contact() {
               </div>
               <div>
                 <p className="text-sm text-slate-500 mb-0.5">Location</p>
-                <p className="text-slate-200">Melbourne, Australia</p>
+                <p className="text-slate-200">Brisbane, Australia</p>
               </div>
             </div>
 
             <div className="flex gap-3">
               <a
-                href="https://github.com/sachinkeragala"
+                href="https://github.com/SachinBhanuka"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2.5 bg-navy-900/60 border border-slate-800/60 rounded-xl text-slate-300 hover:text-accent hover:border-accent/30 transition-all text-sm"
@@ -83,7 +83,7 @@ export default function Contact() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/sachinkeragala"
+                href="https://linkedin.com/in/sachin-keragalage-don-34aa26132"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2.5 bg-navy-900/60 border border-slate-800/60 rounded-xl text-slate-300 hover:text-accent hover:border-accent/30 transition-all text-sm"
