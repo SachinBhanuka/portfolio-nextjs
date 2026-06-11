@@ -22,7 +22,7 @@ export default function Footer() {
 
         <div className="flex items-center gap-3">
           <a
-            href="https://github.com/sachinkeragala"
+            href="https://github.com/SachinBhanuka"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 bg-slate-800/60 border border-slate-700/60 rounded-lg text-slate-400 hover:text-accent hover:border-accent/40 transition-all"
@@ -31,7 +31,7 @@ export default function Footer() {
             <Github size={16} />
           </a>
           <a
-            href="https://linkedin.com/in/sachinkeragala"
+            href="https://linkedin.com/in/sachin-keragalage-don-34aa26132"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 bg-slate-800/60 border border-slate-700/60 rounded-lg text-slate-400 hover:text-accent hover:border-accent/40 transition-all"
@@ -40,7 +40,7 @@ export default function Footer() {
             <Linkedin size={16} />
           </a>
           <a
-            href="mailto:sachin.keragala@email.com"
+            href="mailto:keragalasachin@gmail.com"
             className="p-2.5 bg-slate-800/60 border border-slate-700/60 rounded-lg text-slate-400 hover:text-accent hover:border-accent/40 transition-all"
             aria-label="Email"
           >
