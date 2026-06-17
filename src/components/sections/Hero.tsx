@@ -94,7 +94,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.5 }}
         >
           <a
-            href="https://github.com/sachinkeragala"
+            href="https://github.com/SachinBhanuka"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 bg-slate-800/60 border border-slate-700/60 rounded-lg text-slate-400 hover:text-accent hover:border-accent/40 transition-all"
@@ -103,7 +103,7 @@ export default function Hero() {
             <Github size={18} />
           </a>
           <a
-            href="https://linkedin.com/in/sachinkeragala"
+            href="https://linkedin.com/in/sachin-keragalage-don-34aa26132"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2.5 bg-slate-800/60 border border-slate-700/60 rounded-lg text-slate-400 hover:text-accent hover:border-accent/40 transition-all"
